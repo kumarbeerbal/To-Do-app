@@ -1,0 +1,27 @@
+body{
+    background-image: url("photo-1442406964439-e46ab8eff7c4.jpg")
+}
+#div2{
+    margin-top: 200px;
+    border: 2px solid rgb(83, 77, 77);
+    border-radius: 10px;
+    padding: 40px;
+    background-color: rgb(226, 222, 222);
+    
+}
+#btn1{
+    
+
+}
+#btn2{
+
+}
+#edit{
+margin: 20px;
+}
+#delete{
+    margin: 20px;
+}
+h2{
+    text-align: center;
+}
